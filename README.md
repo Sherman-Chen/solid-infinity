@@ -1,8 +1,8 @@
 #infinity and beyond
 testing out the new FlatList RN component, and also the bootstrapesque React-Native-Elements package
 
-![](https://github.com/Sherman-Chen/solid-infinity/tree/master/assets/part1.gif)
-![](https://github.com/Sherman-Chen/solid-infinity/tree/master/assets/part2.gif)
+![](https://github.com/Sherman-Chen/solid-infinity/blob/master/assets/part1.gif)
+![](https://github.com/Sherman-Chen/solid-infinity/blob/master/assets/part2.gif)
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
