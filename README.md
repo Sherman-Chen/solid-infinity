@@ -1,4 +1,4 @@
-##infinity and beyond
+## infinity and beyond
 testing out the new FlatList RN component specifically the pull-to-refresh, and infinite scrolling and also checking out the bootstrapesque React-Native-Elements package
 
 shout out to handlebar labs for the tutorial!
